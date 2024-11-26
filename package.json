@@ -1,11 +1,12 @@
 {
-  "name": "npm-package-test",
+  "name": "@gpwoj/npm-package-test",
   "version": "1.0.1",
   "description": "A test package following Total Typescript guide",
   "keywords": [
     "typescript",
     "demo"
   ],
+  
   "scripts": {
     "build": "tsc",
     "format": "prettier --write .",
